@@ -1,5 +1,7 @@
 # Testimonials Module
 
+This is a silverstripe module for managing and displaying users' testimonials on pages and widgets. 
+
 ## Maintainer Contact
 
 Takashi Sano (Nickname: tksano)
