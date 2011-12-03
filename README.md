@@ -7,14 +7,14 @@ Takashi Sano (Nickname: tksano)
 
 ## Requirements
 
-SilverStripe 2.4.5
+SilverStripe 2.4.5 or later 
 (not tested for versions prior to 2.4.5, but probably work) 
 
 ## Installation
 
 Unpack and copy the "testimonials" folder into your SilverStripe project.
 
-Run "dev/build" in your browser, for example: "http://localhost/silverstripe/dev/build?flush=all"
+Run "dev/build" in your browser, for example: "http://localhost/dev/build?flush=all"
 
 ## How to use the module
 
