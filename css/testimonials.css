@@ -1,0 +1,77 @@
+/* Testimonial Styles */ 
+
+#Testimonials {
+}
+.testimonial {
+  margin: 0 0 1em 0;
+} 
+.testimonial blockquote {
+  font-size: 1em;
+  font-style: normal;
+  width: 480px;
+  margin: 1em auto 0 auto;
+  padding: 10px;
+}
+
+.testimonial blockquote:before{
+  content: url(../images/quote_before.gif);
+  display: block;
+  vertical-align: middle;
+}
+
+.testimonial blockquote:after{
+  content: url(../images/quote_after.gif);
+  display: block;
+  text-align: right;
+}
+
+.testimonial blockquote p.quote {
+  color: black;
+  margin: -12px 18px;
+}
+.testimonial p.name {
+	text-align: right;
+}
+.testimonial div.toggle {
+  margin: 30px auto -20px auto;
+  padding: 0 15px 0 15px;
+}
+
+/* Widget */ 
+.TestimonialWidget {
+	margin-bottom: 20px;
+}
+.TestimonialWidget .sideTitle {
+	height:32px;
+	background: url(/themes/harvesttime/images/common/testimonial_title.jpg) no-repeat;
+	border-bottom: none;
+}
+.TestimonialWidget .sideTitle h2 {
+	color:#fff;
+	font-size:1.1em;
+	padding: 8px 10px 7px 35px;
+}
+.widget_testimonials {
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	padding: 10px 10px 5px 10px;
+}
+.widget_testimonial {
+	margin: 0 0 12px 0;
+	padding: 0 0 12px 0;
+	border-bottom: 1px solid #EFEFEF;
+}
+.widget_testimonial p.text {
+	font-size:1.0em;
+}
+.widget_testimonial p.name {
+	font-size:0.9em;
+	color:#888;
+	text-align: right;
+}
+.TestimonialWidget .btn {
+	width:82px;
+	margin:auto;
+	margin-bottom:3px;
+}
