@@ -1,5 +1,5 @@
 <% require css(testimonials/css/testimonials.css) %>
-<% require javascript(testimonials/javascript/jquery.toggle.js) %>
+<% require javascript(testimonials/thirdparty/jquery.toggle.js) %>
 
 <div id="contents">
 	
