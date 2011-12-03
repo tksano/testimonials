@@ -10,6 +10,12 @@ Takashi Sano (Nickname: tksano)
 SilverStripe 2.4.5 or later 
 (not tested for versions prior to 2.4.5, but probably work) 
 
+## License
+
+BSD license
+
+The codes in the thirdpaty directory conform to their respective licenses. 
+
 ## Installation
 
 Unpack and copy the "testimonials" folder into your SilverStripe project.
